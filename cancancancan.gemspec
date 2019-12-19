@@ -4,7 +4,7 @@ Gem::Specification.new do |gem|
   gem.version  = '0.0.1'
 
   gem.author   = 'Nihad Abbasov'
-  gem.email    = 'mail@narkoz.me'
+  gem.email    = 'nihad@42na.in'
   gem.homepage = 'http://github.com/narkoz/cancancancan'
 
   gem.add_dependency 'pundit'
